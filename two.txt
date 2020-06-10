@@ -1,1 +1,2 @@
-this is second exampl
+this is second example in dev branch
+for merge demo
